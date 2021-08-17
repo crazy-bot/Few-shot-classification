@@ -1,0 +1,87 @@
+                precision    recall  f1-score   support
+
+__background__       0.00      0.00      0.00         0
+        person       0.00      0.00      0.00         0
+       bicycle       0.00      0.00      0.00         0
+           car       0.00      0.00      0.00         0
+    motorcycle       0.00      0.00      0.00         0
+      airplane       0.00      0.00      0.00         0
+           bus       0.00      0.00      0.00         0
+         train       0.00      0.00      0.00         0
+         truck       0.00      0.00      0.00         0
+          boat       0.00      0.00      0.00         0
+ traffic light       0.00      0.00      0.00         0
+  fire hydrant       0.00      0.00      0.00         0
+     stop sign       0.00      0.00      0.00         0
+ parking meter       0.00      0.00      0.00         0
+         bench       1.00      0.82      0.90        38
+          bird       0.00      0.00      0.00         0
+           cat       0.00      0.00      0.00         0
+           dog       0.00      0.00      0.00         0
+         horse       0.00      0.00      0.00         0
+         sheep       0.00      0.00      0.00         0
+           cow       0.00      0.00      0.00         0
+      elephant       0.00      0.00      0.00         0
+          bear       0.00      0.00      0.00         0
+         zebra       0.00      0.00      0.00         0
+       giraffe       0.00      0.00      0.00         0
+      backpack       0.00      0.00      0.00         0
+      umbrella       0.00      0.00      0.00         0
+       handbag       0.00      0.00      0.00         0
+           tie       0.00      0.00      0.00         0
+      suitcase       0.00      0.00      0.00         0
+       frisbee       0.00      0.00      0.00         0
+          skis       0.00      0.00      0.00         0
+     snowboard       0.00      0.00      0.00         0
+   sports ball       0.00      0.00      0.00         0
+          kite       0.00      0.00      0.00         0
+  baseball bat       0.00      0.00      0.00         0
+baseball glove       0.00      0.00      0.00         0
+    skateboard       0.00      0.00      0.00         0
+     surfboard       0.00      0.00      0.00         0
+ tennis racket       0.00      0.00      0.00         0
+        bottle       0.00      0.00      0.00         0
+    wine glass       0.00      0.00      0.00         0
+           cup       0.00      0.00      0.00         0
+          fork       0.00      0.00      0.00         0
+         knife       0.00      0.00      0.00         0
+         spoon       0.00      0.00      0.00         0
+          bowl       0.00      0.00      0.00         0
+        banana       0.00      0.00      0.00         0
+         apple       0.00      0.00      0.00         0
+      sandwich       0.00      0.00      0.00         0
+        orange       0.00      0.00      0.00         0
+      broccoli       0.00      0.00      0.00         0
+        carrot       0.00      0.00      0.00         0
+       hot dog       0.00      0.00      0.00         0
+         pizza       0.00      0.00      0.00         0
+         donut       0.00      0.00      0.00         0
+          cake       0.00      0.00      0.00         0
+         chair       0.00      0.00      0.00         0
+         couch       0.00      0.00      0.00         0
+  potted plant       0.00      0.00      0.00         0
+           bed       0.00      0.00      0.00         0
+  dining table       0.00      0.00      0.00         0
+        toilet       0.00      0.00      0.00         0
+            tv       0.00      0.00      0.00         0
+        laptop       0.00      0.00      0.00         0
+         mouse       0.00      0.00      0.00         0
+        remote       0.00      0.00      0.00         0
+      keyboard       0.00      0.00      0.00         0
+    cell phone       0.00      0.00      0.00         0
+     microwave       0.00      0.00      0.00         0
+          oven       0.00      0.00      0.00         0
+       toaster       0.00      0.00      0.00         0
+          sink       0.00      0.00      0.00         0
+  refrigerator       0.00      0.00      0.00         0
+          book       0.00      0.00      0.00         0
+         clock       0.00      0.00      0.00         0
+          vase       0.00      0.00      0.00         0
+      scissors       0.00      0.00      0.00         0
+    teddy bear       0.00      0.00      0.00         0
+    hair drier       0.00      0.00      0.00         0
+     toothbrus       0.00      0.00      0.00         0
+
+     micro avg       0.82      0.82      0.82        38
+     macro avg       0.01      0.01      0.01        38
+  weighted avg       1.00      0.82      0.90        38
